@@ -1,3 +1,5 @@
+Author: Muhammad Nazarov
+
 Commands Menu
 The commands are:
 ~define for defining words.
